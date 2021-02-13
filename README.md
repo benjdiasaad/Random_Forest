@@ -11,4 +11,4 @@ de la population permis de conduire.</p>
 
 ## Solution
 <p style="text-align: justify;"> Pour résoudre ce problème de régression, nous utiliserons l'algorithme de forêt aléatoire via la bibliothèque Scikit-Learn Python. 
-Nous suivrons le pipeline traditionnel d'apprentissage automatique pour résoudre ce problème. Suivez les étapes mentionnées dans jupyter lab </p>
+Nous suivrons le pipeline traditionnel d'apprentissage automatique pour résoudre ce problème. Suivez les étapes mentionnées dans notre notebook **Using_random_forest_for_regression** </p>
