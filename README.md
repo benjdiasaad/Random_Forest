@@ -23,7 +23,7 @@ Nous suivrons le pipeline traditionnel d'apprentissage automatique pour résoudr
         <a href="https://github.com/mouncif">
           <img width="150" height="150" src="https://github.com/mouncif.png?v=3&s=150">
           </br>
-          Mr. Mohamed Biniz
+          Mr. MOUNCIF Hicham
         </a>
       </td>
     </tr>
