@@ -12,3 +12,20 @@ de la population permis de conduire.</p>
 ## Solution
 <p style="text-align: justify;"> Pour résoudre ce problème de régression, nous utiliserons l'algorithme de forêt aléatoire via la bibliothèque Scikit-Learn Python. 
 Nous suivrons le pipeline traditionnel d'apprentissage automatique pour résoudre ce problème. Suivez les étapes mentionnées dans notre notebook **Using_random_forest_for_regression** </p>
+
+
+## Assigned By
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/mouncif">
+          <img width="150" height="150" src="https://github.com/mouncif.png?v=3&s=150">
+          </br>
+          Mr. Mohamed Biniz
+        </a>
+      </td>
+    </tr>
+  <tbody>
+</table>
